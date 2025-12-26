@@ -1,0 +1,33 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Dry.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Dry_Leaves.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Leaves/DownShape.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Dry_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Dry_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Dry_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Dry_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Dry_4.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#d2be3f"
+  }
+}

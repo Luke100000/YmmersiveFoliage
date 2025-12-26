@@ -1,0 +1,34 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Autumn.name"
+  },
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "RandomRotation": "YawStep1",
+    "CustomModel": "Blocks/Foliage/Leaves/DownShape.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Autumn_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Autumn_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Autumn_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Autumn_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Autumn_4.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#f06b21"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Autumn_Leaves.png"
+}

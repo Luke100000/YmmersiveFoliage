@@ -1,0 +1,32 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Snow.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Leaves_Snow.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Leaves/PineShape.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/Leaves_Snowy_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/Leaves_Snowy_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/Leaves_Snowy_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/Leaves_Snowy_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/Leaves_Snowy_4.png",
+        "Weight": 1
+      }
+    ]
+  }
+}

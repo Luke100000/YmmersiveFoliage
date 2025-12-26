@@ -1,0 +1,33 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Bottle.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Leaves_Bottle.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Bottle_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Bottle_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Bottle_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Bottle_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Bottle_4.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModel": "Blocks/Foliage/Leaves/UpShapeSoft.blockymodel",
+    "ParticleColor": "#a0ad2c"
+  }
+}

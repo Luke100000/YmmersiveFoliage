@@ -1,0 +1,33 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Palo.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Palo_Leaves.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Palo_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Palo_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Palo_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Palo_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Palo_4.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModel": "Blocks/Foliage/Leaves/UpShapeSoft.blockymodel",
+    "ParticleColor": "#ffc14d"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Windwillow.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Leaves_Windwillow.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/Hanging_Textures/Windwillow_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Hanging_Textures/Windwillow_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Hanging_Textures/Windwillow_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Hanging_Textures/Windwillow_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Hanging_Textures/Windwillow_4.png",
+        "Weight": 1
+      }
+    ],
+    "RandomRotation": "YawStep1",
+    "CustomModel": "Blocks/Foliage/Leaves/Hanging.blockymodel",
+    "ParticleColor": "#5991e2"
+  }
+}

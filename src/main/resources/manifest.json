@@ -1,0 +1,20 @@
+{
+  "Group": "net.conczin",
+  "Name": "Ymmersive Foliage",
+  "Version": "0.0.1",
+  "Description": "An overhaul of foliage density and color",
+  "Authors": [
+    {
+      "Name": "Conczin",
+      "Email": "conczin@gmail.com",
+      "Url": "conczin.net"
+    }
+  ],
+  "Website": "conczin.net",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}

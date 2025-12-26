@@ -1,0 +1,118 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "bone",
+      "position": {"x": 5, "y": 10.5999, "z": -5},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "quad",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 45, "y": 56, "z": 0},
+          "normal": "+Z"
+        },
+        "textureLayout": {
+          "front": {
+            "offset": {"x": 0, "y": 0},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": true,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "Leaves_Block",
+          "position": {"x": -11, "y": 12.4001, "z": -3},
+          "orientation": {"x": 0.44443, "y": -0.19328, "z": 0.73303, "w": 0.47727},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 45, "y": 56, "z": 0},
+              "normal": "+Z",
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 0, "y": 0},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Leaves_Block",
+          "position": {"x": 8.14411, "y": 8.04877, "z": 5.23541},
+          "orientation": {"x": -0.63579, "y": -0.30277, "z": 0.69464, "w": -0.14687},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 45, "y": 56, "z": 0},
+              "normal": "+Z",
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 0, "y": 0},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Leaves_Block",
+          "position": {"x": -1.95265, "y": 10.23608, "z": 12.59637},
+          "orientation": {"x": -0.27769, "y": 0.39232, "z": 0.85268, "w": 0.20474},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 45, "y": 56, "z": 0},
+              "normal": "+Z",
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 0, "y": 0},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        }
+      ]
+    }
+  ],
+  "lod": "auto"
+}

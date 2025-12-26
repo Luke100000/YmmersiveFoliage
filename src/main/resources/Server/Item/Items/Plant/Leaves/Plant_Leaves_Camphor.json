@@ -1,0 +1,34 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Camphor.name"
+  },
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/Hanging_Textures/Camphor_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Hanging_Textures/Camphor_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Hanging_Textures/Camphor_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Hanging_Textures/Camphor_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Hanging_Textures/Camphor_4.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModel": "Blocks/Foliage/Leaves/Hanging.blockymodel",
+    "RandomRotation": "YawStep1",
+    "ParticleColor": "#34c79f"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Camphor_Leaves.png"
+}

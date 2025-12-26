@@ -1,0 +1,33 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Burnt.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Burnt_Leaves.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Burnt_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Burnt_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Burnt_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Burnt_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Burnt_4.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModel": "Blocks/Foliage/Leaves/UpShapeSoft.blockymodel",
+    "ParticleColor": "#2f2f2f"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Fir.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Leaves_Fir.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "Opacity": "Cutout",
+    "CustomModel": "Blocks/Foliage/Leaves/PineShape_NSEW.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_NSEW_Textures/Pine_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_NSEW_Textures/Pine_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_NSEW_Textures/Pine_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_NSEW_Textures/Pine_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_NSEW_Textures/Pine_4.png",
+        "Weight": 1
+      }
+    ],
+    "RandomRotation": "None",
+    "VariantRotation": "NESW",
+    "ParticleColor": "#2d7b4c"
+  }
+}

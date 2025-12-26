@@ -1,0 +1,146 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "bone",
+      "position": {"x": 0, "y": 20, "z": 0},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "quad",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 64, "y": 38, "z": 0},
+          "normal": "+Z"
+        },
+        "textureLayout": {
+          "front": {
+            "offset": {"x": 0, "y": 0},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": true,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "LeafBlock",
+          "position": {"x": -3.29496, "y": 6.81563, "z": -12.29697},
+          "orientation": {"x": -0.17216, "y": 0.12854, "z": 0.02267, "w": 0.97638},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 64, "y": 39, "z": 0},
+              "normal": "+Z",
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 0, "y": 0},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "3",
+          "name": "LeafBlock",
+          "position": {"x": 4.31294, "y": 0.07734, "z": -3.9634},
+          "orientation": {"x": 0.30953, "y": 0.50831, "z": -0.10082, "w": 0.79727},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 64, "y": 38, "z": 0},
+              "normal": "+Z",
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 64, "y": 0},
+                "mirror": {"x": true, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "4",
+          "name": "LeafBlock",
+          "position": {"x": 1.76139, "y": -4.16025, "z": -3.67136},
+          "orientation": {"x": -0.07194, "y": -0.41972, "z": -0.02715, "w": 0.90439},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 64, "y": 24, "z": 0},
+              "normal": "+Z",
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 0, "y": 39},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "5",
+          "name": "LeafBlock",
+          "position": {"x": 0, "y": -9, "z": -9.09632},
+          "orientation": {"x": -0.1244, "y": 0.35218, "z": 0.04729, "w": 0.92642},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 0.77545, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 64, "y": 38, "z": 0},
+              "normal": "+Z",
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 0, "y": 0},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        }
+      ]
+    }
+  ],
+  "lod": "auto"
+}

@@ -1,0 +1,33 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Bamboo.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Bamboo_Leaves.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Leaves/DownShape.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Bamboo_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Bamboo_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Bamboo_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Bamboo_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Bamboo_4.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#ced74b"
+  }
+}

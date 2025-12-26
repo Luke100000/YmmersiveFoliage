@@ -1,0 +1,33 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Gumboab.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Gumboab_Leaves.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Leaves/DownShape.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Gumboab_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Gumboab_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Gumboab_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Gumboab_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Gumboab_4.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#b2bd64"
+  }
+}

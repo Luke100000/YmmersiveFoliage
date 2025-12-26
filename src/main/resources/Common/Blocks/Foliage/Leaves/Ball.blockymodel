@@ -1,0 +1,146 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "bone",
+      "position": {"x": 0, "y": 16, "z": 0},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "quad",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 1.05, "y": 1.05, "z": 1},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 48, "y": 48, "z": 0},
+          "normal": "+Z"
+        },
+        "textureLayout": {
+          "front": {
+            "offset": {"x": 56, "y": 58},
+            "mirror": {"x": false, "y": false},
+            "angle": 180
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": true,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "Leave01",
+          "position": {"x": 0, "y": 0, "z": 0},
+          "orientation": {"x": -0.64279, "y": -0.13302, "z": 0, "w": 0.75441},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 48, "y": 48, "z": 0},
+              "normal": "+Z",
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 8, "y": 10},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Leave01",
+          "position": {"x": 0, "y": 0, "z": 0},
+          "orientation": {"x": 0.06426, "y": -0.79034, "z": -0.05888, "w": 0.60644},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1.1, "y": 1.1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 48, "y": 48, "z": 0},
+              "normal": "+Z",
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 8, "y": 10},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Leave2",
+          "position": {"x": -1, "y": 0, "z": 0},
+          "orientation": {"x": 0.04361, "y": -0.86815, "z": 0.41195, "w": 0.27332},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 0.9, "y": 0.9, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 48, "y": 48, "z": 0},
+              "normal": "+Z",
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 8, "y": 10},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "5",
+          "name": "Leave3",
+          "position": {"x": 3, "y": -1, "z": 0},
+          "orientation": {"x": -0.60855, "y": -0.20562, "z": 0.48614, "w": 0.5925},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 48, "y": 48, "z": 0},
+              "normal": "+Z",
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 8, "y": 10},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        }
+      ]
+    }
+  ],
+  "lod": "auto"
+}

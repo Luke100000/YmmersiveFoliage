@@ -1,0 +1,33 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Maple.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Maple_Leaves.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Leaves/Ball.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/CrimsonMaple_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/CrimsonMaple_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/CrimsonMaple_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/CrimsonMaple_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/CrimsonMaple_4.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#9f3232"
+  }
+}

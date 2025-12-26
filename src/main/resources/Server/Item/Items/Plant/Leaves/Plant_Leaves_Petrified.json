@@ -1,0 +1,34 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Petrified.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Petrified_Leaves.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Leaves/PineShape.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/Petrified_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/Petrified_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/Petrified_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/Petrified_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/Petrified_4.png",
+        "Weight": 1
+      }
+    ],
+    "RandomRotation": "YawStep1",
+    "ParticleColor": "#8b889a"
+  }
+}

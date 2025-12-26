@@ -1,0 +1,34 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Stormbark.name"
+  },
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/WindyShape_Textures/Stormbark_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/WindyShape_Textures/Stormbark_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/WindyShape_Textures/Stormbark_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/WindyShape_Textures/Stormbark_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/WindyShape_Textures/Stormbark_4.png",
+        "Weight": 1
+      }
+    ],
+    "RandomRotation": "YawStep1",
+    "CustomModel": "Blocks/Foliage/Leaves/WindyShape.blockymodel",
+    "ParticleColor": "#a0c6c6"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Leaves_Stormbark.png"
+}

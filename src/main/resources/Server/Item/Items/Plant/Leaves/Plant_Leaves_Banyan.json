@@ -1,0 +1,33 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Banyan.name"
+  },
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Leaves/DownShape.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Banyan_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Banyan_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Banyan_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Banyan_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/DownShape_Textures/Banyan_4.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#2d863d"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Banyan_Leaves.png"
+}

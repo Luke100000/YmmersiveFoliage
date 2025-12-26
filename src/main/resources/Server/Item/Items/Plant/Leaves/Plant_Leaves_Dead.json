@@ -1,0 +1,33 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Leaves_Dead.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Dead_Leaves.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Dead_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Dead_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Dead_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Dead_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/UpShapeSoft_Textures/Dead_4.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModel": "Blocks/Foliage/Leaves/UpShapeSoft.blockymodel",
+    "ParticleColor": "#543f3c"
+  }
+}
