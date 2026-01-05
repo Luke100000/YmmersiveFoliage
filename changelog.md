@@ -1,3 +1,3 @@
-# TODO
+# 1.0.0
 
-* Load order doesn't exist yet
+* Initial Release

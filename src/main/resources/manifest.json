@@ -1,5 +1,5 @@
 {
-  "Group": "net.conczin",
+  "Group": "Conczin",
   "Name": "Ymmersive Foliage",
   "Version": "0.0.1",
   "Description": "An overhaul of foliage density and color",
@@ -7,10 +7,11 @@
     {
       "Name": "Conczin",
       "Email": "conczin@gmail.com",
-      "Url": "conczin.net"
+      "Url": "https://conczin.net/"
     }
   ],
-  "Website": "conczin.net",
+  "Website": "https://conczin.net/",
+  "Main": "net.conczin.YmmersiveFoliage",
   "ServerVersion": "*",
   "Dependencies": {},
   "OptionalDependencies": {},
