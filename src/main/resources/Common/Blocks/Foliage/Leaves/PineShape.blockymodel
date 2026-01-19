@@ -11,7 +11,7 @@
         "stretch": {"x": 1, "y": 1, "z": 1},
         "settings": {
           "isPiece": false,
-          "size": {"x": 45, "y": 56, "z": 0},
+          "size": {"x": 45, "y": 56},
           "normal": "+Z"
         },
         "textureLayout": {
@@ -29,7 +29,7 @@
       "children": [
         {
           "id": "2",
-          "name": "Leaves_Block",
+          "name": "Leaves_Block--C1",
           "position": {"x": -11, "y": 12.4001, "z": -3},
           "orientation": {"x": 0.44443, "y": -0.19328, "z": 0.73303, "w": 0.47727},
           "shape": {
@@ -38,7 +38,7 @@
             "stretch": {"x": 1, "y": 1, "z": 1},
             "settings": {
               "isPiece": false,
-              "size": {"x": 45, "y": 56, "z": 0},
+              "size": {"x": 45, "y": 56},
               "normal": "+Z",
               "isStaticBox": true
             },
@@ -57,7 +57,7 @@
         },
         {
           "id": "3",
-          "name": "Leaves_Block",
+          "name": "Leaves_Block--C2",
           "position": {"x": 8.14411, "y": 8.04877, "z": 5.23541},
           "orientation": {"x": -0.63579, "y": -0.30277, "z": 0.69464, "w": -0.14687},
           "shape": {
@@ -66,7 +66,7 @@
             "stretch": {"x": 1, "y": 1, "z": 1},
             "settings": {
               "isPiece": false,
-              "size": {"x": 45, "y": 56, "z": 0},
+              "size": {"x": 45, "y": 56},
               "normal": "+Z",
               "isStaticBox": true
             },
@@ -85,7 +85,7 @@
         },
         {
           "id": "4",
-          "name": "Leaves_Block",
+          "name": "Leaves_Block--C3",
           "position": {"x": -1.95265, "y": 10.23608, "z": 12.59637},
           "orientation": {"x": -0.27769, "y": 0.39232, "z": 0.85268, "w": 0.20474},
           "shape": {
@@ -94,7 +94,7 @@
             "stretch": {"x": 1, "y": 1, "z": 1},
             "settings": {
               "isPiece": false,
-              "size": {"x": 45, "y": 56, "z": 0},
+              "size": {"x": 45, "y": 56},
               "normal": "+Z",
               "isStaticBox": true
             },
@@ -114,5 +114,6 @@
       ]
     }
   ],
+  "format": "prop",
   "lod": "auto"
 }

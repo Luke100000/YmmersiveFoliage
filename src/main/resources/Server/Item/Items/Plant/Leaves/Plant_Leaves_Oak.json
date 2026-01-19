@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "items.Plant_Leaves_Oak.name"
+    "Name": "server.items.Plant_Leaves_Oak.name"
   },
   "Categories": [
     "Blocks.Plants"
@@ -44,6 +44,11 @@
     "Flags": {},
     "RandomRotation": "YawPitchRollStep1",
     "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
       "Soft": {
         "DropList": "Tree_Leaves"
       },

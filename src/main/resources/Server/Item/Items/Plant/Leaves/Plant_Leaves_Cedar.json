@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "items.Plant_Leaves_Cedar.name"
+    "Name": "server.items.Plant_Leaves_Cedar.name"
   },
   "Icon": "Icons/ItemsGenerated/Plant_Cedar_Leaves.png",
   "Parent": "Plant_Leaves_Oak",

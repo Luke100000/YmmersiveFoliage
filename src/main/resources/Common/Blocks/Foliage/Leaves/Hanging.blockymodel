@@ -11,7 +11,7 @@
         "stretch": {"x": 0.85541, "y": 1.1339, "z": 1},
         "settings": {
           "isPiece": false,
-          "size": {"x": 36, "y": 53, "z": 0},
+          "size": {"x": 36, "y": 53},
           "normal": "+Z"
         },
         "textureLayout": {
@@ -29,7 +29,7 @@
       "children": [
         {
           "id": "2",
-          "name": "Node",
+          "name": "Node--C1",
           "position": {"x": 6.20038, "y": 8.73052, "z": 11.97755},
           "orientation": {"x": 0.03066, "y": -0.8809, "z": 0.35544, "w": 0.31102},
           "shape": {
@@ -38,7 +38,7 @@
             "stretch": {"x": 1.02244, "y": 0.92139, "z": 1},
             "settings": {
               "isPiece": false,
-              "size": {"x": 36, "y": 53, "z": 0},
+              "size": {"x": 36, "y": 53},
               "normal": "+Z",
               "isStaticBox": true
             },
@@ -57,7 +57,7 @@
         },
         {
           "id": "3",
-          "name": "Node",
+          "name": "Node--C2",
           "position": {"x": -7.03209, "y": 4.06978, "z": 9.82552},
           "orientation": {"x": -0.00865, "y": 0.77376, "z": -0.16089, "w": 0.61265},
           "shape": {
@@ -66,7 +66,7 @@
             "stretch": {"x": 1.00982, "y": 1.05312, "z": 1},
             "settings": {
               "isPiece": false,
-              "size": {"x": 36, "y": 53, "z": 0},
+              "size": {"x": 36, "y": 53},
               "normal": "+Z",
               "isStaticBox": true
             },
@@ -85,16 +85,16 @@
         },
         {
           "id": "4",
-          "name": "Node",
+          "name": "Node--C3",
           "position": {"x": 9.34441, "y": 1.26634, "z": 4.98392},
-          "orientation": {"x": 0.0534, "y": -0.46802, "z": 0.18621, "w": 0.86222},
+          "orientation": {"x": 0.0534, "y": -0.46802, "z": 0.18621, "w": 0.86223},
           "shape": {
             "type": "quad",
             "offset": {"x": 0, "y": 0, "z": 0},
             "stretch": {"x": 1, "y": 1.04661, "z": 1},
             "settings": {
               "isPiece": false,
-              "size": {"x": 36, "y": 53, "z": 0},
+              "size": {"x": 36, "y": 53},
               "normal": "+Z",
               "isStaticBox": true
             },
@@ -113,7 +113,7 @@
         },
         {
           "id": "5",
-          "name": "Node",
+          "name": "Node--C4",
           "position": {"x": -0.65559, "y": 6.26634, "z": 19.98392},
           "orientation": {"x": -0.05803, "y": 0.94998, "z": -0.29265, "w": 0.09231},
           "shape": {
@@ -122,7 +122,7 @@
             "stretch": {"x": 1, "y": 1.29661, "z": 1},
             "settings": {
               "isPiece": false,
-              "size": {"x": 36, "y": 53, "z": 0},
+              "size": {"x": 36, "y": 53},
               "normal": "+Z",
               "isStaticBox": true
             },
@@ -142,5 +142,6 @@
       ]
     }
   ],
+  "format": "prop",
   "lod": "auto"
 }

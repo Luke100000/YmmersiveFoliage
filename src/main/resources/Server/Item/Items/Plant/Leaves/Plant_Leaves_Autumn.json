@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "items.Plant_Leaves_Autumn.name"
+    "Name": "server.items.Plant_Leaves_Autumn.name"
   },
   "Parent": "Plant_Leaves_Oak",
   "BlockType": {

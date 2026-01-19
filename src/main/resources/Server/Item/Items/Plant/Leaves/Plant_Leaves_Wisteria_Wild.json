@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "items.Plant_Leaves_Wisteria_Wild.name"
+    "Name": "server.items.Plant_Leaves_Wisteria_Wild.name"
   },
   "Parent": "Plant_Leaves_Oak",
   "BlockType": {

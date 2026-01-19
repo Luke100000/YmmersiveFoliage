@@ -11,14 +11,14 @@
         "stretch": {"x": 1, "y": 0.97742, "z": 1},
         "settings": {
           "isPiece": false,
-          "size": {"x": 47, "y": 51, "z": 0},
+          "size": {"x": 47, "y": 51},
           "normal": "+Z"
         },
         "textureLayout": {
           "front": {
             "offset": {"x": 96, "y": 8},
-            "mirror": {"x": true, "y": true},
-            "angle": 270
+            "mirror": {"x": false, "y": false},
+            "angle": 90
           }
         },
         "unwrapMode": "custom",
@@ -29,7 +29,7 @@
       "children": [
         {
           "id": "2",
-          "name": "Leaves_Block",
+          "name": "Leaves_Block--C1",
           "position": {"x": 5.69673, "y": -0.16903, "z": -7.08548},
           "orientation": {"x": -0.04548, "y": 0.46592, "z": 0.16252, "w": 0.86858},
           "shape": {
@@ -38,15 +38,15 @@
             "stretch": {"x": 0.91979, "y": 1, "z": 1},
             "settings": {
               "isPiece": false,
-              "size": {"x": 47, "y": 51, "z": 0},
+              "size": {"x": 47, "y": 51},
               "normal": "+Z",
               "isStaticBox": true
             },
             "textureLayout": {
               "front": {
                 "offset": {"x": 96, "y": 8},
-                "mirror": {"x": true, "y": true},
-                "angle": 270
+                "mirror": {"x": false, "y": false},
+                "angle": 90
               }
             },
             "unwrapMode": "custom",
@@ -57,7 +57,7 @@
         },
         {
           "id": "3",
-          "name": "Leaves_Block",
+          "name": "Leaves_Block--C2",
           "position": {"x": 6.53455, "y": -0.8643, "z": 4.94841},
           "orientation": {"x": -0.17508, "y": 0.86023, "z": 0.02037, "w": 0.47847},
           "shape": {
@@ -66,15 +66,15 @@
             "stretch": {"x": -0.91979, "y": 1, "z": 1},
             "settings": {
               "isPiece": false,
-              "size": {"x": 47, "y": 51, "z": 0},
+              "size": {"x": 47, "y": 51},
               "normal": "+Z",
               "isStaticBox": true
             },
             "textureLayout": {
               "front": {
                 "offset": {"x": 96, "y": 8},
-                "mirror": {"x": true, "y": true},
-                "angle": 270
+                "mirror": {"x": false, "y": false},
+                "angle": 90
               }
             },
             "unwrapMode": "custom",
@@ -85,7 +85,7 @@
         },
         {
           "id": "4",
-          "name": "Leaves_Block",
+          "name": "Leaves_Block--C3",
           "position": {"x": 0.58876, "y": 12.01656, "z": -0.34933},
           "orientation": {"x": -0.70855, "y": -0.1097, "z": 0.10288, "w": 0.68945},
           "shape": {
@@ -94,15 +94,15 @@
             "stretch": {"x": 1, "y": 1, "z": 1},
             "settings": {
               "isPiece": false,
-              "size": {"x": 41, "y": 42, "z": 0},
+              "size": {"x": 41, "y": 42},
               "normal": "+Z",
               "isStaticBox": true
             },
             "textureLayout": {
               "front": {
                 "offset": {"x": 42, "y": 0},
-                "mirror": {"x": true, "y": true},
-                "angle": 270
+                "mirror": {"x": false, "y": false},
+                "angle": 90
               }
             },
             "unwrapMode": "custom",
@@ -113,7 +113,7 @@
         },
         {
           "id": "5",
-          "name": "Leaves_Block",
+          "name": "Leaves_Block--C4",
           "position": {"x": 0.58876, "y": -9.98344, "z": -0.34933},
           "orientation": {"x": 0.80355, "y": -0.09082, "z": -0.11575, "w": 0.57677},
           "shape": {
@@ -122,15 +122,15 @@
             "stretch": {"x": 1, "y": 1, "z": 1},
             "settings": {
               "isPiece": false,
-              "size": {"x": 41, "y": 42, "z": 0},
+              "size": {"x": 41, "y": 42},
               "normal": "+Z",
               "isStaticBox": true
             },
             "textureLayout": {
               "front": {
                 "offset": {"x": 42, "y": 0},
-                "mirror": {"x": true, "y": true},
-                "angle": 270
+                "mirror": {"x": false, "y": false},
+                "angle": 90
               }
             },
             "unwrapMode": "custom",
@@ -142,5 +142,6 @@
       ]
     }
   ],
+  "format": "prop",
   "lod": "auto"
 }
