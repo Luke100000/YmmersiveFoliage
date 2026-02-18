@@ -57,6 +57,9 @@
       },
       "UseDefaultDropWhenPlaced": true
     },
+    "PlacementSettings": {
+      "AllowBreakReplace": true
+    },
     "BlockParticleSetId": "Leaves",
     "ParticleColor": "#4b8519",
     "MaxSupportDistance": 4,
