@@ -28,7 +28,8 @@
     ],
     "RandomRotation": "YawStep1",
     "CustomModel": "Blocks/Foliage/Leaves/WindyShape.blockymodel",
-    "ParticleColor": "#a0c6c6"
+    "ParticleColor": "#a0c6c6",
+    "TextureComputedColor": "#9CAFB0"
   },
   "Icon": "Icons/ItemsGenerated/Plant_Leaves_Stormbark.png"
 }

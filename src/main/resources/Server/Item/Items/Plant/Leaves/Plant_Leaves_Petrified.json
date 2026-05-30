@@ -29,6 +29,7 @@
       }
     ],
     "RandomRotation": "YawStep1",
-    "ParticleColor": "#8b889a"
+    "ParticleColor": "#8b889a",
+    "TextureComputedColor": "#595B68"
   }
 }

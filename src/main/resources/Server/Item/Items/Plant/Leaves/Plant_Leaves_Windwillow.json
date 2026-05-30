@@ -29,6 +29,7 @@
     ],
     "RandomRotation": "YawStep1",
     "CustomModel": "Blocks/Foliage/Leaves/Hanging.blockymodel",
-    "ParticleColor": "#5991e2"
+    "ParticleColor": "#5991e2",
+    "TextureComputedColor": "#5683C2"
   }
 }

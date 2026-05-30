@@ -81,7 +81,9 @@
       ]
     },
     "BlockSoundSetId": "Leaves",
-    "IgnoreSupportWhenPlaced": true
+    "PhysicalMaterialId": "Foliage",
+    "IgnoreSupportWhenPlaced": true,
+    "TextureComputedColor": "#386917"
   },
   "Tags": {
     "Type": [

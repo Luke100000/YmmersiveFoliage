@@ -29,6 +29,7 @@
       }
     ],
     "CustomModel": "Blocks/Foliage/Leaves/Hanging.blockymodel",
-    "ParticleColor": "#8f8431"
+    "ParticleColor": "#8f8431",
+    "TextureComputedColor": "#71661D"
   }
 }

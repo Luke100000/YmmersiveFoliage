@@ -28,7 +28,8 @@
     ],
     "CustomModel": "Blocks/Foliage/Leaves/Hanging.blockymodel",
     "RandomRotation": "YawStep1",
-    "ParticleColor": "#34c79f"
+    "ParticleColor": "#34c79f",
+    "TextureComputedColor": "#2E9275"
   },
   "Icon": "Icons/ItemsGenerated/Plant_Camphor_Leaves.png"
 }

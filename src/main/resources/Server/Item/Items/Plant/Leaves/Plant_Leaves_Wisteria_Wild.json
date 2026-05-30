@@ -28,7 +28,8 @@
       }
     ],
     "RandomRotation": "YawStep1",
-    "ParticleColor": "#567816"
+    "ParticleColor": "#567816",
+    "TextureComputedColor": "#3C5718"
   },
   "Icon": "Icons/ItemsGenerated/Plant_Leaves_Wisteria_Wild.png"
 }

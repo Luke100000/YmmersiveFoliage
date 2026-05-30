@@ -27,7 +27,8 @@
         "Weight": 1
       }
     ],
-    "ParticleColor": "#2d863d"
+    "ParticleColor": "#2d863d",
+    "TextureComputedColor": "#105D25"
   },
   "Icon": "Icons/ItemsGenerated/Plant_Banyan_Leaves.png"
 }

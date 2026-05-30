@@ -28,6 +28,7 @@
       }
     ],
     "CustomModel": "Blocks/Foliage/Leaves/UpShapeSoft.blockymodel",
-    "ParticleColor": "#543f3c"
+    "ParticleColor": "#543f3c",
+    "TextureComputedColor": "#332522"
   }
 }

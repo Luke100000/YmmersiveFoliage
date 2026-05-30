@@ -27,7 +27,8 @@
         "Weight": 1
       }
     ],
-    "ParticleColor": "#f0c41b"
+    "ParticleColor": "#f0c41b",
+    "TextureComputedColor": "#DC9915"
   },
   "Icon": "Icons/ItemsGenerated/Plant_Leaves_Amber.png"
 }

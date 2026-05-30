@@ -31,6 +31,7 @@
     ],
     "RandomRotation": "None",
     "VariantRotation": "NESW",
-    "ParticleColor": "#2d7b4c"
+    "ParticleColor": "#2d7b4c",
+    "TextureComputedColor": "#1D4B2F"
   }
 }

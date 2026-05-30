@@ -28,6 +28,7 @@
         "Weight": 1
       }
     ],
-    "ParticleColor": "#ced74b"
+    "ParticleColor": "#ced74b",
+    "TextureComputedColor": "#8D992F"
   }
 }
